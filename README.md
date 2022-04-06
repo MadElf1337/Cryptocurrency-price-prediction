@@ -1,2 +1,2 @@
 # Crypto_price
-Prediction of Crypto Prices
+Prediction of Crypto Prices using LSTM model
